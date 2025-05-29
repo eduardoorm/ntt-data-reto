@@ -38,8 +38,8 @@ Soy **Desarrollador Backend** con más de **3 años de experiencia** en el desar
 - [https://randomuser.me](https://randomuser.me): fuente de datos aleatorios de personas.
 
 
-## ¿Que implementé?
-###  Frontend (ReactJS)
+## 🚀 ¿Que implementé?
+### 🔥 Frontend (ReactJS)
 - Configuración para que el frontend corra en el puerto 3001.
 
 - Llamadas al backend usando fetch() para obtener los datos de usuarios.
@@ -52,7 +52,7 @@ Soy **Desarrollador Backend** con más de **3 años de experiencia** en el desar
 ## Imágenes
 ![Lista de usuarios](https://github.com/user-attachments/assets/2e7fa5e3-ba83-4267-af93-a9903f543223)
 
-### Backend (NestJS)
+### 🔥 Backend (NestJS)
 - Controlador /users que actúa como API REST para devolver los datos.
 
 - Servicio que consume la API pública randomuser.me mediante Axios.
