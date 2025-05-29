@@ -26,11 +26,11 @@ Soy **Desarrollador Backend** con más de **3 años de experiencia** en el desar
 
 ## 🚀 Cómo iniciar
 
-1. `cd backend && npm install && npm run start`
+1. Utilizar el backend o carpeta llamada "nuevo-reto-bootcamp-2-backend-respaldo" `cd nuevo-reto-bootcamp-2-backend-respaldo && npm install && npm run start`
     El backend corre por defecto en http://localhost:3000.
 
 
-2. `cd frontend && npm install && npm start`
+2. `cd nuevo-reto-bootcamp-2-frontend && npm install && npm start`
     El frontend corre por defecto en 3001 en http://localhost:3001 
 
 
