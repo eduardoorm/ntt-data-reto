@@ -47,4 +47,4 @@ Tengo experiencia desarrollando APIs con NestJS, usando módulos, servicios y co
 
 
 ## Autor
-Eduardo Ormeño 
+José Eduardo Ormeño Meneses 
