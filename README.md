@@ -34,6 +34,10 @@ Tengo experiencia desarrollando APIs con NestJS, usando módulos, servicios y co
 
 - Componente principal que renderiza las tarjetas de usuario con la información solicitada.
 
+
+## Imágenes
+![Lista de usuarios - Reto NTTDATA](https://github.com/user-attachments/assets/3ec1eec4-5bc9-4a90-b478-f70291f190ce)
+
 ### Backend (NestJS)
 - Controlador /users que actúa como API REST para devolver los datos.
 
