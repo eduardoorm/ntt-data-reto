@@ -26,7 +26,9 @@ function App() {
           </div>
         ))}
       </div>
-      <div> Realizado por Eduardo Ormeño</div>
+      <footer className="footer-signature">
+        <span>✨ Realizado por <strong>Eduardo Ormeño</strong> ✨</span>
+      </footer>
     </div>
   );
 }
