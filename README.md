@@ -6,9 +6,23 @@
 - **Frontend**: ReactJS (SPA) + CSS3
 - **API externa**: https://randomuser.me
 
-## 🔥 Mi experiencia con las tecnologías
+## 🔥 Mi experiencia con las tecnologías 
 
-Tengo experiencia desarrollando APIs con NestJS, usando módulos, servicios y controladores para organizar el código. Por el lado de React, me especializo en interfaces SPA optimizadas y adaptables a diferentes tamaños de pantalla.
+Soy **Desarrollador Backend** con más de **3 años de experiencia** en el desarrollo de soluciones escalables y automatizadas.
+
+### 🛠️ Backend
+- Especializado en **Node.js** y **NestJS**.
+- Experiencia en arquitectura de **microservicios**, **sistemas de pago** y **buenas prácticas de desarrollo**.
+- Participación en el desarrollo del backend de **BiPay**, la billetera virtual de Bitel, utilizando **Java** en el sector bancario.
+
+### 💻 Frontend
+- Desarrollo de **Single Page Applications (SPA)** con **React**.
+- Interfaces adaptables y optimizadas para diferentes tamaños de pantalla.
+- He desarrollado aplicaciones web para empresas de **venta de cursos**, **colegios**, entre otros.
+
+### ☁️ DevOps & Cloud
+- Formación continua en **Cloud Computing** y prácticas de **CI/CD**.
+
 
 ## 🚀 Cómo iniciar
 
