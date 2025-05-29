@@ -36,7 +36,7 @@ Tengo experiencia desarrollando APIs con NestJS, usando módulos, servicios y co
 
 
 ## Imágenes
-![Lista de usuarios - Reto NTTDATA](https://github.com/user-attachments/assets/3ec1eec4-5bc9-4a90-b478-f70291f190ce)
+![Lista de usuarios](https://github.com/user-attachments/assets/2e7fa5e3-ba83-4267-af93-a9903f543223)
 
 ### Backend (NestJS)
 - Controlador /users que actúa como API REST para devolver los datos.
