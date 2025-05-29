@@ -13,7 +13,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>Lista de Usuarios</h1>
+      <h1>Lista de Usuarios - Reto Bootcamp 2 NTT DATA</h1>
       <div className="user-list">
         {users.map((user, index) => (
           <div className="user-card" key={index}>
